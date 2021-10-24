@@ -1,6 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "nobu09",
+  "description": "This is the repositry to practice manage node.js projects and npm packages using package.json at freeCodeCamp.",
   "dependencies": {
     "express": "^4.14.0"
   },
