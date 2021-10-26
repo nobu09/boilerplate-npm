@@ -1,14 +1,24 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
-	}
+  "name": "fcc-learn-npm-package-json",
+  "author": "nobu09",
+  "description": "This is the repositry to practice manage node.js projects and npm packages using package.json at freeCodeCamp.",
+  "keywords": [
+    "freecodecamp",
+    "Node.js",
+    "npm",
+    "package.json"
+  ],
+  "license": "MIT",
+  "version": "1.0.1",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://idontknow/todo.git"
+  }
 }
